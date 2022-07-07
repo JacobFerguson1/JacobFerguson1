@@ -3,7 +3,7 @@
 <h2>💻 Cybersecruity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/jacobferguson1)
+  - [Active Directory Home Lab](https://github.com/JacobFerguson1/ActiveDirectoryLab)
 
 <h2>🐍 Python Projects </h2>
 
