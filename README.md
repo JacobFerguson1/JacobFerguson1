@@ -7,7 +7,7 @@
 
 <h2>🧾Certifications </h2>
 
-<a href="https://www.credly.com/badges/68e9be35-a380-42ab-aef2-569706315b71/public_url">AWS Cloud Practitioner</a>
+<a href="https://www.credly.com/badges/68e9be35-a380-42ab-aef2-569706315b71/public_url"><img src="https://i.imgur.com/w2OQGyh.png" title="source: imgur.com" /></a>
 
 <h2> 🤳 Connect with me:</h2>
 
